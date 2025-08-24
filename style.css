@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background: linear-gradient(to bottom, #ffe6f0, #fff);
+  font-family: 'Comic Sans MS', cursive;
+}
+
+h1 {
+  color: #ff69b4;
+  text-shadow: 2px 2px #fff0f5;
+}
+
+canvas {
+  border: 3px solid #ffb6c1;
+  background-color: #fffafc;
+}
